@@ -1,1 +1,5 @@
 This is first commit from dev branch.
+
+changes from feature3 and it is working fine.
+
+from feature3 to texfile1.
